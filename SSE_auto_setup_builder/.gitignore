@@ -132,3 +132,45 @@ cython_debug/
 
 # VS Code
 .vscode/
+
+# その他の無視するファイルやディレクトリ
+../Git/
+../OpenLapSim-master/
+../SAE-Strategist-ai-engineer/
+../SAE_Backup/
+../SAE_LOGO.png
+../SAE_Project.zip
+../SAE_Project/
+../SAE_Short_LOGO.jpg
+../SAE_Short_LOGO.xcf
+../SAE_audio_file/
+../SAE_flow_chart.drawio
+../SAE_main.zip
+../SAE_main/
+../SAE_main_program (2).zip
+../SAE_main_program (3).zip
+../SAE_main_program.zip
+../SAE_main_program/
+../SAE_program.py
+../SAE_sample.py
+../SSE_auto_setup_builder.py
+../TestProgram.py
+../TestProgram_test.py
+../acc_settings.db
+../acc_telemetry_port.txt
+../app.py
+../app_code.zip
+../check_env.py
+../import pyaudio.py
+../insert_setup_data.py
+../pip install flask.py
+../python
+../python_db-master/
+../python_db/
+../race_engineer_voice.py
+../sae-ai-strategist-5c5a44d49169.json
+../setup_sharing_api/
+../templates/
+../test_client.py
+../test_client2.py
+../write_telemetry_client.py
